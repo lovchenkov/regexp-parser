@@ -70,5 +70,5 @@ struct Result {
  
 `make coverage && open coverage/index.html`
 
-![Покрытие](https://ibb.co/SJMTYJN)
+![Покрытие](https://drive.google.com/file/d/1trKtwS37FOtFXx_1uB8JdNlpDaY3OM91/view?usp=sharing)
 
